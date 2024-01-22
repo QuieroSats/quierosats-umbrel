@@ -3,7 +3,7 @@ id: quierosats-public-pool
 category: bitcoin
 name: Public Pool
 icon: https://i.imgur.com/lh7j6yH.png
-version: "4bb00f2"
+version: "4bb00f21"
 tagline: Fully Open Source Solo Bitcoin Mining Pool
 description: >-
   Fully Open Source Solo Bitcoin Mining Pool
