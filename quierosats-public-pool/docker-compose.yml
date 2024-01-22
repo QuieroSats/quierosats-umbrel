@@ -15,7 +15,7 @@ services:
       - DOMAIN=$DEVICE_DOMAIN_NAME
 
   server:
-    image: sethforprivacy/public-pool:latest
+    image: sethforprivacy/public-pool:4bb00f2@sha256:0fc82e7123be68650c9e31f57a5a206e622acbcaa170e31219a488818ad6da6b
     restart: on-failure
     stop_grace_period: 30s
     ports:
